@@ -140,6 +140,7 @@ Tools for migrating from other markup formats to Djot.
 
 ## Documentation Tools
 
+- [guides-djot](https://github.com/phpDocumentor/guides-djot) - Djot support for phpDocumentor's Guides documentation system.
 - [mdbook-djot](https://github.com/dcampbell24/mdbook-djot) - Djot plugin for mdBook.
 - [mkdocs-djot](https://github.com/13m0n4de/mkdocs-djot) - Djot plugin for MkDocs.
 - [resilient.sile](https://omikhleia.github.io/resilient.sile/adventures/djot/) - Book production toolchain with Djot support.
@@ -191,7 +192,6 @@ Websites and blogs built with Djot.
 
 ## Community
 
-- [CommonMark Discussion](https://talk.commonmark.org/t/djot-a-light-markup-language-by-jgm/4229) - Discussion thread on CommonMark forum.
 - [GitHub Discussions](https://github.com/jgm/djot/discussions) - Official discussion forum for Djot.
 - [GitHub Issues](https://github.com/jgm/djot/issues) - Report bugs and request features.
 
