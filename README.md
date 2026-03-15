@@ -11,6 +11,7 @@
 - [Editors & IDE Support](#editors--ide-support)
 - [Tools](#tools)
 - [Converters](#converters)
+- [Migration](#migration)
 - [CMS Integration](#cms-integration)
 - [Documentation Tools](#documentation-tools)
 - [Static Site Generators](#static-site-generators)
@@ -119,6 +120,12 @@
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
 - [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - PHP converters for HTML, plain text, and custom formats.
 - [Pandoc](https://pandoc.org/) - Universal document converter with Djot reader/writer support (since version 3.0).
+
+## Migration
+
+Tools for migrating from other markup formats to Djot.
+
+- [Pandoc](https://pandoc.org/) - Convert Markdown, AsciiDoc, reStructuredText, and more to Djot.
 
 ## CMS Integration
 
