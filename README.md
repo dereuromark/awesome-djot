@@ -1,6 +1,6 @@
 # Awesome Djot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of [Djot](https://djot.net/) resources, tools, editors, and libraries.
+> A curated list of Djot resources, tools, editors, and libraries.
 
 [Djot](https://djot.net/) is a light markup syntax created by John MacFarlane (creator of Pandoc and CommonMark). It draws on Markdown's syntax but aims to be more consistent and unambiguous.
 
@@ -23,7 +23,6 @@
 
 ## Official Resources
 
-- [Djot.net](https://djot.net/) - Official website with playground and documentation.
 - [Djot Cheatsheet](https://github.com/jgm/djot/blob/master/doc/cheatsheet.md) - Quick syntax reference.
 - [Djot Syntax Reference](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html) - Complete syntax specification.
 - [jgm/djot](https://github.com/jgm/djot) - Official reference implementation in JavaScript/TypeScript.
@@ -54,14 +53,6 @@
 ### Haskell
 
 - [jgm/djoths](https://github.com/jgm/djoths) - Haskell implementation of Djot.
-
-### JavaScript / TypeScript
-
-- [jgm/djot](https://github.com/jgm/djot) - Official reference implementation. Provides both a library and CLI tool.
-
-### Lua
-
-- [jgm/djot.lua](https://github.com/jgm/djot.lua) - Official Lua implementation, can be used with LuaJIT.
 
 ### PHP
 
@@ -132,7 +123,6 @@ Tools for migrating from other markup formats to Djot.
 
 - [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - Convert Markdown, HTML, and BBCode to Djot.
 - [markdown-to-djot-ast](https://github.com/Hocdoc/markdown-to-djot-ast) - JavaScript library to convert Markdown to Djot AST.
-- [Pandoc](https://pandoc.org/) - Convert Markdown, AsciiDoc, reStructuredText, and more to Djot.
 
 ## CMS Integration
 
@@ -160,13 +150,12 @@ Tools for migrating from other markup formats to Djot.
 ## Syntax Highlighting
 
 - [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
-- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - TextMate grammar for Shiki/VS Code.
-- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - highlight.js grammar for Djot.
-- [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - Tree-sitter grammar for Djot.
+- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - The TextMate grammar for Shiki/VS Code.
+- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - The highlight.js grammar for Djot.
+- [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - The tree-sitter grammar for Djot.
 
 ## Sandboxes
 
-- [Djot Playground](https://djot.net/) - Official online playground.
 - [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php (most complete version/specs).
 
 ## Example Sites
@@ -194,9 +183,3 @@ Websites and blogs built with Djot.
 
 - [GitHub Discussions](https://github.com/jgm/djot/discussions) - Official discussion forum for Djot.
 - [GitHub Issues](https://github.com/jgm/djot/issues) - Report bugs and request features.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
