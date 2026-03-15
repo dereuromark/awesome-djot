@@ -10,11 +10,11 @@
 - [Parsers & Libraries](#parsers--libraries)
 - [Editors & IDE Support](#editors--ide-support)
 - [Tools](#tools)
-- [Syntax Highlighting](#syntax-highlighting)
 - [Converters](#converters)
 - [CMS Integration](#cms-integration)
 - [Documentation Tools](#documentation-tools)
 - [Static Site Generators](#static-site-generators)
+- [Syntax Highlighting](#syntax-highlighting)
 - [Learning Resources](#learning-resources)
 - [Community](#community)
 
@@ -86,13 +86,6 @@
 
 - [tjot](https://hg.sr.ht/~ser/tjot) - Terminal renderer for Djot with image and table support.
 
-## Syntax Highlighting
-
-- [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
-- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - TextMate grammar for Shiki/VS Code.
-- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - highlight.js grammar for Djot.
-- [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - Tree-sitter grammar for Djot.
-
 ## Converters
 
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
@@ -113,6 +106,13 @@
 - [Glaze](https://github.com/josbeir/glaze) - Fast PHP static site generator with native Djot support.
 - [gozer](https://git.sr.ht/~dvko/gozer) - Minimalist static site generator with Djot support.
 - [Lume](https://lume.land/) - Deno-based SSG with Djot plugin support.
+
+## Syntax Highlighting
+
+- [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
+- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - TextMate grammar for Shiki/VS Code.
+- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - highlight.js grammar for Djot.
+- [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - Tree-sitter grammar for Djot.
 
 ## Learning Resources
 
