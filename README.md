@@ -128,6 +128,7 @@ Tools for converting Djot to other formats.
 
 Tools for migrating from other markup formats to Djot.
 
+- [djot-php Converters](https://github.com/php-collective/djot-php/tree/master/src/Converter) - Convert Markdown, HTML, and BBCode to Djot.
 - [Pandoc](https://pandoc.org/) - Convert Markdown, AsciiDoc, reStructuredText, and more to Djot.
 
 ## CMS Integration
