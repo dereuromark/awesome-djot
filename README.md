@@ -20,7 +20,7 @@
 ## Official Resources
 
 - [Djot.net](https://djot.net/) - Official website with playground and documentation.
-- [Djot Quick Reference](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/quick.html) - Official quick syntax reference.
+- [Djot Cheatsheet](https://github.com/jgm/djot/blob/master/doc/cheatsheet.md) - Quick syntax reference.
 - [Djot Syntax Reference](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html) - Complete syntax specification.
 - [jgm/djot](https://github.com/jgm/djot) - Official reference implementation in JavaScript/TypeScript.
 - [jgm/djot.lua](https://github.com/jgm/djot.lua) - Official Lua implementation.
@@ -118,10 +118,6 @@
 ### Tutorials
 
 *Contributions welcome!*
-
-### Cheat Sheets
-
-- [Djot Quick Reference](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/quick.html) - Official quick syntax reference.
 
 ## Community
 
