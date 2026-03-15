@@ -1,9 +1,9 @@
 ## Proposed Addition
 
-**Name:**
-**Link:**
-**Category:**
-**Description:**
+- **Name:**
+- **Link:**
+- **Category:**
+- **Description:**
 
 ## Checklist
 
