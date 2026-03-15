@@ -15,6 +15,7 @@
 - [Documentation Tools](#documentation-tools)
 - [Static Site Generators](#static-site-generators)
 - [Syntax Highlighting](#syntax-highlighting)
+- [Sandboxes](#sandboxes)
 - [Learning Resources](#learning-resources)
 - [Community](#community)
 
@@ -114,6 +115,11 @@
 - [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - highlight.js grammar for Djot.
 - [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - Tree-sitter grammar for Djot.
 
+## Sandboxes
+
+- [Djot Playground](https://djot.net/) - Official online playground.
+- [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php.
+
 ## Learning Resources
 
 ### Articles
@@ -125,7 +131,7 @@
 
 ### Tutorials
 
-- [Djot Syntax Guide](https://php-collective.github.io/djot-php/guide/syntax.html) - Comprehensive syntax guide with examples.
+- [Djot Syntax Guide](https://php-collective.github.io/djot-php/guide/syntax.html) - Comprehensive syntax guide with examples (PHP version).
 
 ## Community
 
