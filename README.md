@@ -145,9 +145,8 @@ Tools for migrating from other markup formats to Djot.
 
 ## Syntax Highlighting
 
+- [djot-grammars](https://github.com/php-collective/djot-grammars) - Collection of Djot grammars for TextMate/Shiki, highlight.js, and Prism.js.
 - [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
-- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - The TextMate grammar for Shiki/VS Code.
-- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - The highlight.js grammar for Djot.
 - [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - The tree-sitter grammar for Djot.
 
 ## Sandboxes
