@@ -92,7 +92,7 @@
 
 ## CMS Integration
 
-- [wp-djot](https://github.com/php-collective/wp-djot) - WordPress plugin with extensions and syntax highlighting.
+- [wp-djot](https://github.com/php-collective/wp-djot) - PHP WordPress plugin with extensions and syntax highlighting.
 
 ## Documentation Tools
 
@@ -117,7 +117,7 @@
 
 ### Tutorials
 
-*Contributions welcome!*
+- [Djot Syntax Guide](https://php-collective.github.io/djot-php/guide/syntax.html) - Comprehensive syntax guide with examples.
 
 ## Community
 
