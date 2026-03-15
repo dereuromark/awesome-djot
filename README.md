@@ -71,7 +71,7 @@
 
 ### JetBrains IDEs
 
-- [Djot Plugin](https://plugins.jetbrains.com/plugin/29244-djot) - Djot support for all JetBrains IDEs.
+- [djot-intellij](https://github.com/php-collective/djot-intellij) - Djot support for all JetBrains IDEs.
 
 ### Vim / Neovim
 
@@ -92,7 +92,7 @@
 
 ## CMS Integration
 
-- [Djot Markup for WordPress](https://wordpress.org/plugins/djot-markup/) - WordPress plugin with extensions and addons.
+- [wp-djot](https://github.com/php-collective/wp-djot) - WordPress plugin with extensions and syntax highlighting.
 
 ## Documentation Tools
 
