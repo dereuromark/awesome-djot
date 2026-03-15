@@ -30,4 +30,6 @@ Please make sure your suggestion meets all the criteria before submitting a pull
 
 **Maintainer Discretion:** Maintainers reserve the right to decline any contribution or remove existing entries at any time. Common reasons include projects becoming unmaintained, outdated, superseded by better alternatives, or no longer meeting quality standards.
 
+**Historical Entries:** Projects that have been removed from the main list (due to being discontinued, superseded, or no longer maintained) may be documented in the [Wiki](https://github.com/dereuromark/awesome-djot/wiki) for historical reference.
+
 Thank you for your suggestions!

@@ -62,10 +62,6 @@
 
 - [aarroyoc/djota](https://github.com/aarroyoc/djota) - Djot implementation in Prolog.
 
-### Python
-
-- [jgm/djot.py](https://github.com/jgm/djot.py) - Python bindings for the JavaScript implementation.
-
 ### Ruby
 
 - [gdiasag/djotter](https://github.com/gdiasag/djotter) - Ruby wrapper for the jotdown Rust crate.
@@ -86,7 +82,7 @@
 
 ### Emacs
 
-- [djot-mode](https://github.com/lrustand/djot-mode) - Major mode for editing Djot files in Emacs.
+- [djot-mode](https://codeberg.org/crmsnbleyd/djot-mode) - Major mode for editing Djot files in Emacs.
 
 ### JetBrains IDEs
 
@@ -99,7 +95,7 @@
 
 ### Visual Studio Code
 
-- [Djot VSCode Extension](https://marketplace.visualstudio.com/items?itemName=pjeby.vscode-djot) - Syntax highlighting and preview for Djot.
+- [Djot VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ryanabx.djot-vscode) - Syntax highlighting and preview for Djot.
 
 ## Tools
 
@@ -141,7 +137,7 @@ Tools for migrating from other markup formats to Djot.
 - [djockey](https://github.com/irskep/djockey) - Powerful SSG for technical writing and documentation.
 - [Eleventy](https://www.11ty.dev/) - Can use Djot via plugins.
 - [Glaze](https://github.com/josbeir/glaze) - Fast PHP static site generator with native Djot support.
-- [gozer](https://git.sr.ht/~dvko/gozer) - Minimalist static site generator with Djot support.
+- [gozer](https://github.com/dannyvankooten/gozer) - Minimalist static site generator with Djot support.
 - [jekyll-djot](https://github.com/gdiasag/jekyll-djot) - Djot generator for Jekyll.
 - [Lume](https://lume.land/) - Deno-based SSG with Djot plugin support.
 - [simple-ssg](https://github.com/ryanabx/simple-ssg) - Simple Djot and Markdown static site generator.
@@ -170,8 +166,8 @@ Websites and blogs built with Djot.
 
 ### Articles
 
-- 2022-08: [Beyond Markdown](https://djot.net/misc/draft.html) - John MacFarlane's article explaining the rationale behind Djot.
-- 2022-12: [I've moved my blog to Djot](https://matklad.github.io/2022/12/18/on-djot.html) - Alex Kladov's experience migrating from AsciiDoctor to Djot.
+- 2022-08: [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) - John MacFarlane's article explaining the rationale behind Djot.
+- 2022-12: [I've moved my blog to Djot](https://github.com/jgm/djot/discussions/94) - Alex Kladov's experience migrating from AsciiDoctor to Djot.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
 
