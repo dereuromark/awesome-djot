@@ -110,10 +110,10 @@
 
 ### Articles
 
-- 2022: [Beyond Markdown](https://djot.net/misc/draft.html) - John MacFarlane's article explaining the rationale behind Djot.
-- 2022: [I've moved my blog to Djot](https://matklad.github.io/2022/12/18/on-djot.html) - Alex Kladov's experience migrating from AsciiDoctor to Djot.
-- 2025: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
-- 2025: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
+- 2022-08: [Beyond Markdown](https://djot.net/misc/draft.html) - John MacFarlane's article explaining the rationale behind Djot.
+- 2022-12: [I've moved my blog to Djot](https://matklad.github.io/2022/12/18/on-djot.html) - Alex Kladov's experience migrating from AsciiDoctor to Djot.
+- 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
+- 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
 
 ### Tutorials
 
