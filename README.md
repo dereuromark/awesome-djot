@@ -117,6 +117,8 @@
 
 ## Converters
 
+Tools for converting Djot to other formats.
+
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
 - [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - PHP converters for HTML, plain text, and custom formats.
 - [Pandoc](https://pandoc.org/) - Universal document converter with Djot reader/writer support (since version 3.0).
