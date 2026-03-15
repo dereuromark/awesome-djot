@@ -16,6 +16,7 @@
 - [Static Site Generators](#static-site-generators)
 - [Syntax Highlighting](#syntax-highlighting)
 - [Sandboxes](#sandboxes)
+- [Example Sites](#example-sites)
 - [Learning Resources](#learning-resources)
 - [Community](#community)
 
@@ -37,6 +38,14 @@
 
 - [paradox460/djot](https://github.com/paradox460/djot) - Elixir wrapper around jotdown.
 
+### Erlang
+
+- [faelys/djot.erlang](https://github.com/faelys/djot.erlang) - Djot parser in Erlang.
+
+### Gleam
+
+- [lpil/jot](https://github.com/lpil/jot) - Djot parser in Gleam.
+
 ### Go
 
 - [sivukhin/godjot](https://github.com/sivukhin/godjot) - Djot parser in Go.
@@ -57,13 +66,29 @@
 
 - [php-collective/djot-php](https://github.com/php-collective/djot-php) - PHP implementation with extensions and security features.
 
+### Prolog
+
+- [aarroyoc/djota](https://github.com/aarroyoc/djota) - Djot implementation in Prolog.
+
 ### Python
 
 - [jgm/djot.py](https://github.com/jgm/djot.py) - Python bindings for the JavaScript implementation.
 
+### Ruby
+
+- [gdiasag/djotter](https://github.com/gdiasag/djotter) - Ruby wrapper for the jotdown Rust crate.
+
 ### Rust
 
 - [hellux/jotdown](https://github.com/hellux/jotdown) - Djot parser and renderer in Rust.
+
+### Swift
+
+- [wti/SwiftDjot](https://github.com/wti/SwiftDjot) - Swift wrapper for djot C library interface.
+
+### Zig
+
+- [leroycep/djot.zig](https://github.com/leroycep/djot.zig) - Djot parser implemented in Zig.
 
 ## Editors & IDE Support
 
@@ -85,6 +110,8 @@
 
 ## Tools
 
+- [djoc](https://github.com/kmaasrud/djoc) - Djot document compiler.
+- [djotfmt](https://github.com/black-desk/djotfmt) - Djot formatter.
 - [tjot](https://hg.sr.ht/~ser/tjot) - Terminal renderer for Djot with image and table support.
 
 ## Converters
@@ -98,11 +125,13 @@
 
 ## Documentation Tools
 
+- [mdbook-djot](https://github.com/dcampbell24/mdbook-djot) - Djot plugin for mdBook.
 - [resilient.sile](https://omikhleia.github.io/resilient.sile/adventures/djot/) - Book production toolchain with Djot support.
 - [SEED.html](https://stewarthaines.com/epub/SEED.html) - Browser-based EPUB authoring tool with Djot support.
 
 ## Static Site Generators
 
+- [djockey](https://github.com/irskep/djockey) - Powerful SSG for technical writing and documentation.
 - [Eleventy](https://www.11ty.dev/) - Can use Djot via plugins.
 - [Glaze](https://github.com/josbeir/glaze) - Fast PHP static site generator with native Djot support.
 - [gozer](https://git.sr.ht/~dvko/gozer) - Minimalist static site generator with Djot support.
@@ -118,7 +147,15 @@
 ## Sandboxes
 
 - [Djot Playground](https://djot.net/) - Official online playground.
-- [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php.
+- [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php (most complete version/specs).
+
+## Example Sites
+
+Websites and blogs built with Djot.
+
+- [dereuromark.de](https://www.dereuromark.de/) - PHP/CakePHP developer blog using djot-php.
+- [matklad.github.io](https://matklad.github.io/) - Alex Kladov's blog, migrated from AsciiDoctor.
+- [pdx.su](https://pdx.su/) - Blog using Djot with Elixir and Tableau.
 
 ## Learning Resources
 
