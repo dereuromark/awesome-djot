@@ -10,6 +10,7 @@
 - [Parsers & Libraries](#parsers--libraries)
 - [Editors & IDE Support](#editors--ide-support)
 - [Tools](#tools)
+- [Syntax Highlighting](#syntax-highlighting)
 - [Converters](#converters)
 - [CMS Integration](#cms-integration)
 - [Documentation Tools](#documentation-tools)
@@ -84,6 +85,13 @@
 ## Tools
 
 - [tjot](https://hg.sr.ht/~ser/tjot) - Terminal renderer for Djot with image and table support.
+
+## Syntax Highlighting
+
+- [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
+- [djot.tmLanguage.json](https://github.com/php-collective/djot-intellij/blob/main/src/main/resources/textmate/djot.tmLanguage.json) - TextMate grammar for Shiki/VS Code.
+- [hljs-djot.js](https://github.com/php-collective/djot-php/blob/master/docs/public/assets/hljs-djot.js) - highlight.js grammar for Djot.
+- [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - Tree-sitter grammar for Djot.
 
 ## Converters
 
