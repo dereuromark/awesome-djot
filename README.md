@@ -103,6 +103,7 @@
 
 ### Vim / Neovim
 
+- [jgm/djot vim syntax](https://github.com/jgm/djot/tree/main/editors/vim) - Official Vim syntax highlighting.
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Tree-sitter grammar available for Djot syntax highlighting.
 
 ### Visual Studio Code
@@ -120,15 +121,17 @@
 Tools for converting Djot to other formats.
 
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
-- [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - PHP converters for HTML, plain text, and custom formats.
+- [djot-php AnsiRenderer](https://php-collective.github.io/djot-php/cookbook/ansi.html) - Convert Djot to ANSI-colored terminal output.
 - [djot-php MarkdownRenderer](https://php-collective.github.io/djot-php/cookbook/markdown.html) - Convert Djot to CommonMark Markdown.
+- [djot-php PlaintextRenderer](https://php-collective.github.io/djot-php/cookbook/plaintext.html) - Convert Djot to plain text.
 - [Pandoc](https://pandoc.org/) - Universal document converter with Djot reader/writer support (since version 3.0).
 
 ## Migration
 
 Tools for migrating from other markup formats to Djot.
 
-- [djot-php Converters](https://github.com/php-collective/djot-php/tree/master/src/Converter) - Convert Markdown, HTML, and BBCode to Djot.
+- [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - Convert Markdown, HTML, and BBCode to Djot.
+- [markdown-to-djot-ast](https://github.com/Hocdoc/markdown-to-djot-ast) - JavaScript library to convert Markdown to Djot AST.
 - [Pandoc](https://pandoc.org/) - Convert Markdown, AsciiDoc, reStructuredText, and more to Djot.
 
 ## CMS Integration
@@ -138,6 +141,7 @@ Tools for migrating from other markup formats to Djot.
 ## Documentation Tools
 
 - [mdbook-djot](https://github.com/dcampbell24/mdbook-djot) - Djot plugin for mdBook.
+- [mkdocs-djot](https://github.com/13m0n4de/mkdocs-djot) - Djot plugin for MkDocs.
 - [resilient.sile](https://omikhleia.github.io/resilient.sile/adventures/djot/) - Book production toolchain with Djot support.
 - [SEED.html](https://stewarthaines.com/epub/SEED.html) - Browser-based EPUB authoring tool with Djot support.
 
@@ -147,7 +151,10 @@ Tools for migrating from other markup formats to Djot.
 - [Eleventy](https://www.11ty.dev/) - Can use Djot via plugins.
 - [Glaze](https://github.com/josbeir/glaze) - Fast PHP static site generator with native Djot support.
 - [gozer](https://git.sr.ht/~dvko/gozer) - Minimalist static site generator with Djot support.
+- [jekyll-djot](https://github.com/gdiasag/jekyll-djot) - Djot generator for Jekyll.
 - [Lume](https://lume.land/) - Deno-based SSG with Djot plugin support.
+- [simple-ssg](https://github.com/ryanabx/simple-ssg) - Simple Djot and Markdown static site generator.
+- [sprokkel](https://github.com/tomcur/sprokkel) - Lightweight Rust static site generator with Djot support.
 
 ## Syntax Highlighting
 
@@ -184,6 +191,7 @@ Websites and blogs built with Djot.
 
 ## Community
 
+- [CommonMark Discussion](https://talk.commonmark.org/t/djot-a-light-markup-language-by-jgm/4229) - Discussion thread on CommonMark forum.
 - [GitHub Discussions](https://github.com/jgm/djot/discussions) - Official discussion forum for Djot.
 - [GitHub Issues](https://github.com/jgm/djot/issues) - Report bugs and request features.
 
