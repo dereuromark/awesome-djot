@@ -101,6 +101,7 @@
 
 - [djoc](https://github.com/kmaasrud/djoc) - Djot document compiler.
 - [djotfmt](https://github.com/black-desk/djotfmt) - Djot formatter.
+- [djot-php Validation](https://php-collective.github.io/djot-php/guide/validation) - Validate Djot documents for errors and warnings.
 - [tjot](https://hg.sr.ht/~ser/tjot) - Terminal renderer for Djot with image and table support.
 
 ## Converters
