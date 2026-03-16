@@ -166,7 +166,9 @@ Websites and blogs built with Djot.
 ### Articles
 
 - 2022-08: [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html) - John MacFarlane's article explaining the rationale behind Djot.
+- 2022-12: [Djot — Markdown alternative](https://zine.dev/2022/12/djot-markdown-alternative/) - Early introduction comparing Djot to Markdown.
 - 2022-12: [I've moved my blog to Djot](https://github.com/jgm/djot/discussions/94) - Alex Kladov's experience migrating from AsciiDoctor to Djot.
+- 2024-02: [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/) - Practical comparison and migration experience.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
 
