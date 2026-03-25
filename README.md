@@ -159,7 +159,7 @@ Tools for migrating from other markup formats to Djot.
 
 Websites and blogs built with Djot.
 
-- [dereuromark.de](https://www.dereuromark.de/) - PHP/CakePHP developer blog using djot-php.
+- [dereuromark.de](https://www.dereuromark.de/) - PHP/CakePHP developer blog using djot-php through wp-djot.
 - [matklad.github.io](https://matklad.github.io/) - Alex Kladov's blog, migrated from AsciiDoctor.
 - [pdx.su](https://pdx.su/) - Blog using Djot with Elixir and Tableau.
 
