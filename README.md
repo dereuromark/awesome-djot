@@ -153,6 +153,7 @@ Tools for migrating from other markup formats to Djot.
 ## Sandboxes
 
 - [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php (most complete version/specs).
+- [Djot PHP WYSIWYG](https://sandbox.dereuromark.de/sandbox/djot/wysiwyg) - WYSIWYG editor for Djot using djot-php.
 
 ## Example Sites
 
