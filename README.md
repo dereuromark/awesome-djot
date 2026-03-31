@@ -12,6 +12,7 @@
 - [Tools](#tools)
 - [Converters](#converters)
 - [Migration](#migration)
+- [Framework Integration](#framework-integration)
 - [CMS Integration](#cms-integration)
 - [Documentation Tools](#documentation-tools)
 - [Static Site Generators](#static-site-generators)
@@ -120,6 +121,10 @@ Tools for migrating from other markup formats to Djot.
 
 - [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - Convert Markdown, HTML, and BBCode to Djot.
 - [markdown-to-djot-ast](https://github.com/Hocdoc/markdown-to-djot-ast) - JavaScript library to convert Markdown to Djot AST.
+
+## Framework Integration
+
+- [symfony-djot](https://github.com/php-collective/symfony-djot) - Djot integration for Symfony — Twig filters, services, forms, and validation.
 
 ## CMS Integration
 
