@@ -12,6 +12,7 @@
 - [Tools](#tools)
 - [Converters](#converters)
 - [Migration](#migration)
+- [Roundtrip Conversion](#roundtrip-conversion)
 - [Framework Integration](#framework-integration)
 - [CMS Integration](#cms-integration)
 - [Documentation Tools](#documentation-tools)
@@ -121,6 +122,19 @@ Tools for migrating from other markup formats to Djot.
 
 - [djot-php Converters](https://php-collective.github.io/djot-php/guide/converters.html) - Convert Markdown, HTML, and BBCode to Djot.
 - [markdown-to-djot-ast](https://github.com/Hocdoc/markdown-to-djot-ast) - JavaScript library to convert Markdown to Djot AST.
+
+## Roundtrip Conversion
+
+Tools supporting lossless bidirectional conversion for content editing workflows. Essential for WYSIWYG integration where content is stored as Djot but edited as HTML — changes made in the visual editor convert back to Djot without losing syntax choices or formatting details.
+
+### Djot → HTML → Djot
+
+- [djot-php](https://php-collective.github.io/djot-php/guide/converters.html#round-trip-mode) - Bidirectional converter with comprehensive round-trip support. Features include:
+  - Preservation of syntax choices (thematic breaks `***`/`---`, list markers `-`/`+`/`*`, code fence lengths)
+  - Semantic HTML elements (`<kbd>`, `<dfn>`, `<abbr>`, `<samp>`, `<var>`)
+  - Reference links, footnotes, abbreviations, and heading IDs
+  - Raw HTML fallback for unsupported elements
+  - Extension support (admonitions, mermaid, tabs, code groups)
 
 ## Framework Integration
 
