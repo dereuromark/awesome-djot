@@ -25,12 +25,16 @@
 
 ## Official Resources
 
+Documentation and reference implementations from the Djot creator.
+
 - [Djot Cheatsheet](https://github.com/jgm/djot/blob/master/doc/cheatsheet.md) - Quick syntax reference.
 - [Djot Syntax Reference](https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html) - Complete syntax specification.
 - [jgm/djot](https://github.com/jgm/djot) - Official reference implementation in JavaScript/TypeScript.
 - [jgm/djot.lua](https://github.com/jgm/djot.lua) - Official Lua implementation.
 
 ## Parsers & Libraries
+
+Language-specific implementations for parsing and rendering Djot.
 
 ### .NET / C#
 
@@ -82,6 +86,8 @@
 
 ## Editors & IDE Support
 
+Syntax highlighting and editing support for popular editors.
+
 ### Emacs
 
 - [djot-mode](https://codeberg.org/crmsnbleyd/djot-mode) - Major mode for editing Djot files in Emacs.
@@ -100,6 +106,8 @@
 - [Djot VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ryanabx.djot-vscode) - Syntax highlighting and preview for Djot.
 
 ## Tools
+
+Command-line utilities for working with Djot documents.
 
 - [djoc](https://github.com/kmaasrud/djoc) - Djot document compiler.
 - [djotfmt](https://github.com/black-desk/djotfmt) - Djot formatter.
@@ -133,13 +141,19 @@ Tools supporting lossless bidirectional conversion for content editing workflows
 
 ## Framework Integration
 
+Djot support for web frameworks.
+
 - [symfony-djot](https://github.com/php-collective/symfony-djot) - Djot integration for Symfony — Twig filters, services, forms, and validation.
 
 ## CMS Integration
 
+Djot plugins for content management systems.
+
 - [wp-djot](https://github.com/php-collective/wp-djot) - PHP WordPress plugin with extensions and syntax highlighting.
 
 ## Documentation Tools
+
+Generate documentation from Djot source files.
 
 - [guides-djot](https://github.com/phpDocumentor/guides-djot) - Djot support for phpDocumentor's Guides documentation system.
 - [mdbook-djot](https://github.com/dcampbell24/mdbook-djot) - Djot plugin for mdBook.
@@ -148,6 +162,8 @@ Tools supporting lossless bidirectional conversion for content editing workflows
 - [SEED.html](https://stewarthaines.com/epub/SEED.html) - Browser-based EPUB authoring tool with Djot support.
 
 ## Static Site Generators
+
+Build static websites with Djot content.
 
 - [djockey](https://github.com/irskep/djockey) - Powerful SSG for technical writing and documentation.
 - [Eleventy](https://www.11ty.dev/) - Can use Djot via plugins.
@@ -160,11 +176,15 @@ Tools supporting lossless bidirectional conversion for content editing workflows
 
 ## Syntax Highlighting
 
+Grammars and themes for displaying Djot with syntax colors.
+
 - [djot-grammars](https://github.com/php-collective/djot-grammars) - Collection of Djot grammars for TextMate/Shiki, highlight.js, and Prism.js.
 - [djot.sublime-syntax](https://github.com/sorairolake/djot.sublime-syntax) - Djot syntax highlighting for Sublime Text.
 - [tree-sitter-djot](https://github.com/treeman/tree-sitter-djot) - The tree-sitter grammar for Djot.
 
 ## Sandboxes
+
+Interactive playgrounds for experimenting with Djot.
 
 - [Djot PHP Sandbox](https://sandbox.dereuromark.de/sandbox/djot) - Interactive sandbox for djot-php (most complete version/specs).
 - [Djot PHP WYSIWYG](https://sandbox.dereuromark.de/sandbox/djot/wysiwyg) - WYSIWYG editor for Djot using djot-php.
@@ -178,6 +198,8 @@ Websites and blogs built with Djot.
 - [pdx.su](https://pdx.su/) - Blog using Djot with Elixir and Tableau.
 
 ## Learning Resources
+
+Articles and tutorials for learning Djot.
 
 ### Articles
 
@@ -193,6 +215,8 @@ Websites and blogs built with Djot.
 - [Djot Syntax Guide](https://php-collective.github.io/djot-php/guide/syntax.html) - Comprehensive syntax guide with examples (PHP version).
 
 ## Community
+
+Places to discuss Djot and get help.
 
 - [GitHub Discussions](https://github.com/jgm/djot/discussions) - Official discussion forum for Djot.
 - [GitHub Issues](https://github.com/jgm/djot/issues) - Report bugs and request features.
