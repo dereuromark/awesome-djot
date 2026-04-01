@@ -129,12 +129,7 @@ Tools supporting lossless bidirectional conversion for content editing workflows
 
 ### Djot → HTML → Djot
 
-- [djot-php](https://php-collective.github.io/djot-php/guide/converters.html#round-trip-mode) - Bidirectional converter with comprehensive round-trip support. Features include:
-  - Preservation of syntax choices (thematic breaks `***`/`---`, list markers `-`/`+`/`*`, code fence lengths)
-  - Semantic HTML elements (`<kbd>`, `<dfn>`, `<abbr>`, `<samp>`, `<var>`)
-  - Reference links, footnotes, abbreviations, and heading IDs
-  - Raw HTML fallback for unsupported elements
-  - Extension support (admonitions, mermaid, tabs, code groups)
+- [djot-php](https://php-collective.github.io/djot-php/guide/converters.html#round-trip-mode) - Bidirectional converter preserving syntax choices, semantic HTML elements, references, footnotes, and abbreviations. Unsupported HTML falls back to raw blocks.
 
 ## Framework Integration
 
