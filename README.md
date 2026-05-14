@@ -118,6 +118,7 @@ Command-line utilities for working with Djot documents.
 
 Tools for converting Djot to other formats.
 
+- [cdjot](https://github.com/karlb/cdjot/) - Dependency-free Djot to HTML converter in C99.
 - [djot.js CLI](https://github.com/jgm/djot#cli) - Convert Djot to HTML, Pandoc AST, and more.
 - [djot-php AnsiRenderer](https://php-collective.github.io/djot-php/cookbook/ansi.html) - Convert Djot to ANSI-colored terminal output.
 - [djot-php MarkdownRenderer](https://php-collective.github.io/djot-php/cookbook/markdown.html) - Convert Djot to CommonMark Markdown.
