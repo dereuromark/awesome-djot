@@ -195,6 +195,7 @@ Interactive playgrounds for experimenting with Djot.
 Websites and blogs built with Djot.
 
 - [dereuromark.de](https://www.dereuromark.de/) - PHP/CakePHP developer blog using djot-php through wp-djot.
+- [karl.berlin](https://www.karl.berlin) - Blog with custom Djot-based static site generator.
 - [matklad.github.io](https://matklad.github.io/) - Alex Kladov's blog, migrated from AsciiDoctor.
 - [pdx.su](https://pdx.su/) - Blog using Djot with Elixir and Tableau.
 
