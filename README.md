@@ -211,6 +211,7 @@ Articles and tutorials for learning Djot.
 - 2024-02: [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/) - Practical comparison and migration experience.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
+- 2026-05: [I prefer Djot over Markdown](https://www.karl.berlin/djot.html) - Opinions and personal experience related to CommonMark and Djot.
 
 ### Tutorials
 
