@@ -108,6 +108,7 @@ Syntax highlighting and editing support for popular editors.
 ### Zed
 
 - [Djot Zed Extension](https://zed.dev/extensions/djot) - Syntax highlighting for Djot.
+- [php-collective/zed-djot](https://github.com/php-collective/zed-djot) - Tree-sitter syntax highlighting tuned to djot-php, with snippets and live preview (dev extension).
 
 ## Tools
 
