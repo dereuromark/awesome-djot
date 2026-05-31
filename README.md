@@ -105,6 +105,10 @@ Syntax highlighting and editing support for popular editors.
 
 - [Djot VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ryanabx.djot-vscode) - Syntax highlighting and preview for Djot.
 
+### Zed
+
+- [Djot Zed Extension](https://zed.dev/extensions/djot) - Syntax highlighting for Djot.
+
 ## Tools
 
 Command-line utilities for working with Djot documents.
