@@ -104,6 +104,7 @@ Syntax highlighting and editing support for popular editors.
 ### Visual Studio Code
 
 - [Djot VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ryanabx.djot-vscode) - Syntax highlighting and preview for Djot.
+- [dereuromark/vscode-djot](https://github.com/dereuromark/vscode-djot) - Full djot-php syntax highlighting with snippets and a live preview rendered by the djot-php CLI.
 
 ### Zed
 
