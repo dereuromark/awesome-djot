@@ -54,6 +54,7 @@ Language-specific implementations for parsing and rendering Djot.
 
 ### Go
 
+- [danielledeleo/djot-go](https://github.com/danielledeleo/djot-go) - An extensible, spec-complete Djot parser in Go.
 - [sivukhin/godjot](https://github.com/sivukhin/godjot) - Djot parser in Go.
 
 ### Haskell
