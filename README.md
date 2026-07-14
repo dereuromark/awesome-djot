@@ -230,7 +230,6 @@ Articles and tutorials for learning Djot.
 Markup languages that build on Djot's design.
 
 - [Carve](https://github.com/markup-carve/carve) - Post-Markdown language that keeps Djot's technical core (linear parsing, no expressive blind spots, arbitrary attributes) and swaps in visual mnemonics: `/italic/`, `*bold*`, `_underline_`, `~strikethrough~`. Three implementations (TypeScript, PHP, Rust) share one normative grammar and conformance corpus.
-- [awesome-carve](https://github.com/markup-carve/awesome-carve) - Curated list of Carve resources, tools, editors, and libraries.
 - [carve-php converters](https://github.com/markup-carve/carve-php/tree/main/src/Converter) - Converts existing Djot documents to Carve (alongside Markdown, HTML, and BBCode).
 
 ## Community
