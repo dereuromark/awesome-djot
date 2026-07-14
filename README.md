@@ -21,6 +21,7 @@
 - [Sandboxes](#sandboxes)
 - [Example Sites](#example-sites)
 - [Learning Resources](#learning-resources)
+- [Related Languages](#related-languages)
 - [Community](#community)
 
 ## Official Resources
@@ -223,6 +224,13 @@ Articles and tutorials for learning Djot.
 ### Tutorials
 
 - [Djot Syntax Guide](https://php-collective.github.io/djot-php/guide/syntax.html) - Comprehensive syntax guide with examples (PHP version).
+
+## Related Languages
+
+Markup languages that build on Djot's design.
+
+- [Carve](https://github.com/markup-carve/carve) - Post-Markdown language that keeps Djot's technical core (linear parsing, no expressive blind spots, arbitrary attributes) and swaps in visual mnemonics: `/italic/`, `*bold*`, `_underline_`, `~strikethrough~`. Three implementations (TypeScript, PHP, Rust) share one normative grammar and conformance corpus.
+- [carve-php converters](https://github.com/markup-carve/carve-php/tree/main/src/Converter) - Converts existing Djot documents to Carve (alongside Markdown, HTML, and BBCode).
 
 ## Community
 
