@@ -222,7 +222,7 @@ Articles and tutorials for learning Djot.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
 - 2026-05: [I prefer Djot over Markdown](https://www.karl.berlin/djot.html) - Opinions and personal experience related to CommonMark and Djot.
-- 2026-08: [Pandoc: What survives a conversion?](https://www.dereuromark.de/2026/08/19/pandoc-what-survives-a-conversion/) - Measuring what Djot, Markdown and Carve lose when Pandoc converts between them.
+- 2026-08: [Pandoc: What survives a conversion?](https://www.dereuromark.de/2026/08/19/pandoc-what-survives-a-conversion/) - Measures round-trip fidelity across the formats Pandoc writes, Djot among them.
 
 ### Tutorials
 
