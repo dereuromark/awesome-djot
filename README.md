@@ -118,6 +118,7 @@ Syntax highlighting and editing support for popular editors.
 Command-line utilities for working with Djot documents.
 
 - [djoc](https://github.com/kmaasrud/djoc) - Djot document compiler.
+- [djot-implementations](https://github.com/dcampbell24/djot-implementations) - Benchmarks comparing the available Djot implementations.
 - [djotfmt](https://github.com/black-desk/djotfmt) - Djot formatter.
 - [djot-php Validation](https://php-collective.github.io/djot-php/guide/validation) - Validate Djot documents for errors and warnings.
 - [tjot](https://hg.sr.ht/~ser/tjot) - Terminal renderer for Djot with image and table support.
@@ -174,6 +175,7 @@ Generate documentation from Djot source files.
 
 Build static websites with Djot content.
 
+- [blogatto](https://github.com/veeso/blogatto) - Gleam static blog framework with Djot or Markdown, feeds, and multilingual support.
 - [djockey](https://github.com/irskep/djockey) - Powerful SSG for technical writing and documentation.
 - [Eleventy](https://www.11ty.dev/) - Can use Djot via plugins.
 - [Glaze](https://github.com/josbeir/glaze) - Fast PHP static site generator with native Djot support.
@@ -220,6 +222,7 @@ Articles and tutorials for learning Djot.
 - 2025-06: [Writing in Djot](https://pdx.su/blog/2025-06-28-writing-in-djot/) - Blog post about using Djot with Elixir and Tableau.
 - 2025-12: [Djot PHP - A Modern Markup Parser](https://www.dereuromark.de/2025/12/09/djot-php-a-modern-markup-parser/) - Introduction to the PHP implementation.
 - 2026-05: [I prefer Djot over Markdown](https://www.karl.berlin/djot.html) - Opinions and personal experience related to CommonMark and Djot.
+- 2026-08: [Pandoc: What survives a conversion?](https://www.dereuromark.de/2026/08/19/pandoc-what-survives-a-conversion/) - Measuring what Djot, Markdown and Carve lose when Pandoc converts between them.
 
 ### Tutorials
 
